@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Flaveur Layout
+OpenIDE-Module-Short-Description: Layout for the flavor model developped by Oniris Nantes
+OpenIDE-Module-Long-Description: The goal of this layout is to place an almost-tree graph. The graph needs to be centered around a unique root. The first-level nodes will be placed around a circle.
+OpenIDE-Module-Display-Category: Layout
